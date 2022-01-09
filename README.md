@@ -110,6 +110,7 @@ Next, print the instructions with `pd 30`:
 
 # Acknowledgements
 
+- [Practical Eth Decompilation](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/)
 - [ICO Security Tips radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53)
 - [foundry](https://github.com/gakonst/foundry)
 - [solmate](https://github.com/Rari-Capital/solmate)
