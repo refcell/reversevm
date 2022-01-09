@@ -1,6 +1,6 @@
-# foundry-starter  • [![tests](https://github.com/abigger87/foundry-starter/actions/workflows/tests.yml/badge.svg)](https://github.com/abigger87/foundry-starter/actions/workflows/tests.yml) [![lints](https://github.com/abigger87/foundry-starter/actions/workflows/lints.yml/badge.svg)](https://github.com/abigger87/foundry-starter/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/abigger87/foundry-starter) ![GitHub package.json version](https://img.shields.io/github/package-json/v/abigger87/foundry-starter)
+# reversevm  • [![tests](https://github.com/abigger87/reversevm/actions/workflows/tests.yml/badge.svg)](https://github.com/abigger87/reversevm/actions/workflows/tests.yml) [![lints](https://github.com/abigger87/reversevm/actions/workflows/lints.yml/badge.svg)](https://github.com/abigger87/reversevm/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/abigger87/reversevm) ![GitHub package.json version](https://img.shields.io/github/package-json/v/abigger87/reversevm)
 
-**Minimal** Template for Foundry Projects
+Notes on Reverse Engineering EVM Bytecode.
 
 ## Blueprint
 
@@ -41,12 +41,17 @@ yarn setup
 yarn test
 ```
 
+## Reverse Engineering
+
+
+
 ## License
 
-[AGPL-3.0-only](https://github.com/abigger87/foundry-starter/blob/master/LICENSE)
+[AGPL-3.0-only](https://github.com/abigger87/reversevm/blob/master/LICENSE)
 
 # Acknowledgements
 
+- [ICO Security Tips radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53)
 - [foundry](https://github.com/gakonst/foundry)
 - [solmate](https://github.com/Rari-Capital/solmate)
 - [Georgios Konstantopoulos](https://github.com/gakonst) for [forge-template](https://github.com/gakonst/forge-template) resource.
