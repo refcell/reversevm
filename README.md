@@ -93,7 +93,7 @@ Then, enter `aa` for the first prompt:
 [x] Analyze all flags starting with sym. and entry0 (aa)
 ```
 
-Next, print the instructions with `pd 30`:
+Next, disassemble 30 instructions with `pd 30`:
 ```bash
 [0x00000000]> pd 30
 ┌ 1077: fcn.00000000 ();
@@ -108,8 +108,9 @@ Next, print the instructions with `pd 30`:
 
 [AGPL-3.0-only](https://github.com/abigger87/reversevm/blob/master/LICENSE)
 
-# Acknowledgements
+# Resources & Acknowledgements
 
+- [Radare2 Book](https://book.rada.re/) (select `ayu` color trust me :)
 - [Practical Eth Decompilation](https://blog.ret2.io/2018/05/16/practical-eth-decompilation/)
 - [ICO Security Tips radare2](https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53)
 - [foundry](https://github.com/gakonst/foundry)
